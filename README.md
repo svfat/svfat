@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey there! 🖖 Welcome to my personal GitHub page
+My name is Stan and I'm a software developer. Here you'll find some of my personal projects and contributions to open-source software. 🚀
+
+#### Projects
+* [awesome-celery](https://github.com/svfat/awesome-celery) – Resources, tools, and libraries for the Python Celery task queue.🤖
+
+Take a look around, let me know if you have any questions or just want to chat!💬
 
 <!--
 **svfat/svfat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
