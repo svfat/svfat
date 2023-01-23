@@ -3,6 +3,9 @@ My name is Stan and I'm a software developer. Here you'll find some of my person
 
 #### Projects
 * [awesome-celery](https://github.com/svfat/awesome-celery) – Resources, tools, and libraries for the Python Celery task queue.🤖
+* [md2telegram](https://github.com/svfat/md2telegram) - Generates a dynamic Telegram bot from a set of static text files.📑
+* [python-openai-telegram-bot](https://github.com/svfat/python-openai-telegram-bot) - Telegram bot with integration of OpenAI GPT-3 API.🧠
+
 
 Take a look around, let me know if you have any questions or just want to chat!💬
 
