@@ -1,7 +1,7 @@
 ### Hey there! 🖖 Welcome to my personal GitHub page
 My name is Stan and I'm a software developer. Here you'll find some of my personal projects and contributions to open-source software. 🚀
 
-* [CV](https://github.com/svfat/svfat/blob/main/Fateev_Stan_Python_Senior.pdf) - My CV in PDF format.👔
+* [CV](https://github.com/svfat/svfat/blob/main/Stan_Fateev_Software_Engineer_CV.pdf) - My CV in PDF format.👔
 
 #### Projects
 * [awesome-celery](https://github.com/svfat/awesome-celery) – Resources, tools, and libraries for the Python Celery task queue.🤖
